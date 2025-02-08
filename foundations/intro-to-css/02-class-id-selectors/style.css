@@ -1,0 +1,19 @@
+/*style.css*/
+
+
+p{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+#Number2{
+    color:blue;
+    font-size: 36px;
+}
+.ajuste-fuente{
+font-size: 24px;
+}
+
+#Number4{
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
